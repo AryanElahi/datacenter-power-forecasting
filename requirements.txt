@@ -1,0 +1,19 @@
+# core
+numpy
+pandas
+polars
+duckdb
+pyarrow
+# plotting and stats
+matplotlib
+statsmodels
+# data access
+awscli
+# deep learning and quantum
+torch
+pennylane
+# experiment tracking
+wandb
+# notebooks
+jupyterlab
+ipykernel
